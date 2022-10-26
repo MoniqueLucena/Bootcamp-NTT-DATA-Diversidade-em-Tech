@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página - Módulo I - Primeiros Passos com HTML</title>
+</head>
+<body>
+    <h1>Módulo 1 - Primeiros Passos com HTML</h1>
+    <hr />
+
+    <h2>Índice</h2>
+ 
+        <li><a href="#">História dos computadores</a></li>
+        <li><a href="#">O que são <i>Clients</i>?</a></li>
+        <li><a href="#">O que são <i>Servers</i>?</a></li>
+        <li><a href="#">Como é uma estrutura básica de um HTML?</a></li>
+        <li><a href="#">Entendendo a diferença entre listas ordenadas e não ordenadas</a></li>
+        <li><a href="#">Links de referências</a></li>
+    </ul>
+
+    <h2>História dos computadores</h2>
+    <p>O computador, tal qual conhecemos hoje, passou por diversas transformações e foi se aperfeiçoando ao longo do tempo, acompanhando o avanço das áreas da matemática, engenharia, eletrônica. <br>
+    <i><strong>Primeira Geração:</strong></i>
+    Os computadores de primeira geração funcionavam por meio de circuitos e válvulas eletrônicas. Possuíam o uso restrito, além de serem imensos e consumirem muita energia.<br>
+    <i><strong>Segunda Geração:</strong></i>
+    Ainda com dimensões muito grandes, os computadores da segunda geração funcionavam por meio de transistores, os quais substituíram as válvulas que eram maiores e mais lentas. Nesse período já começam a se espalhar o uso comercial.<br>
+    <i><strong>Terceira Geração:</strong></i>
+    Os computadores da terceira geração funcionavam por circuitos integrados. Esses substituíram os transistores e já apresentavam uma dimensão menor e maior capacidade de processamento.<br>
+    <i><strong>Quarta Geração:</strong></i>
+    Com o desenvolvimento da tecnologia da informação, os computadores diminuem de tamanho, aumentam a velocidade e capacidade de processamento de dados. São incluídos os microprocessadores com gasto cada vez menor de energia.
+Nesse período, mais precisamente a partir da década de 90, há uma grande expansão dos computadores pessoais. <br> </p>
+ <a href="Projeto1.html"> Voltar </a>
+
+    <h2>O que são <i>Clients</i>?</h2>
+    <p>Dispositivos de usuários finais, como <u>notebooks, smartphones e computadores desktop</u> , são considerados <i><strong>"clientes"</strong></i> dos servidores, como se fossem clientes obtendo serviços de uma empresa. Os dispositivos clientes enviam solicitações de páginas web ou aplicativos aos servidores e os servidores fornecem respostas.</p>
+       <a href="Projeto1.html"> Voltar </a>
+
+    <h2>O que são <i>Servers</i>?</h2>
+    <p>Os <u>servidores</u> podem <i>servir</i> a vários dispositivos clientes ao mesmo tempo e cada dispositivo cliente envia solicitações a <strong>vários</strong> servidores durante o acesso e a navegação na internet.<br> Ele é composto pelo hardware e pelo software, cada um desempenhando um papel distinto no processamento de arquivos.</p>
+      <a href="Projeto1.html"> Voltar </a>
+
+    <h2>Como é uma estrutura básica de um HTML?</h2>
+    <p> <strong>Html</strong> é a tag inicial de qualquer documento no formato html; <strong>Head</strong> é uma seção da página que apresenta informações gerais; <strong>Title</strong> é a tag que informa o título da página na barra do navegador; <strong>body</strong> é a seção principal, na qual será escrito o conteúdo da página.</p>
+       <a href="Projeto1.html"> Voltar </a>
+
+    <h2>Entendendo a diferença entre listas ordenadas e não ordenadas</h2>
+    <p>A principal diferença entre a <u>lista ordenada</u> e a <u>lista não-ordenada</u>  está na maneira com que os itens de cada lista são apresentados - a lista ordenada enumera os elementos; a lista não-ordenada coloca marcadores antes de cada elemento.</p>
+       <a href="Projeto1.html"> Voltar </a>
+
+    <h2>Links de referências</h2>
+   
+    <ul>
+        <li><a href="https://www.hiperbytes.com.br/" target="_blank">Hiperbytes</a></li>
+        <li><a href="https://www.devmedia.com.br/" target="_blank">DevMedia</a></li>
+        <li><a href="https://www.cloudflare.com/pt-br/" target="_blank">Cloudflare</a></li>
+        <li><a href="https://www.todamateria.com.br/" target="_blank">Toda Matéria</a></li>
+    </ul>
+
+</body>
+</html>
